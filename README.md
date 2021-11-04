@@ -27,4 +27,6 @@ The sinking of the Titanic on April 15th, 1912 is one of the most tragic tragedi
 DATA SOURCE: https://www.kaggle.com/c/titanic
 
 
+![titanic-reuters-rtrb6qm](https://user-images.githubusercontent.com/82880075/140382879-72e54c46-b3d9-4b00-ac29-27395660ff9d.png)
+
 

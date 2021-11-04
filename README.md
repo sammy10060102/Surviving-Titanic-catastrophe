@@ -1,6 +1,8 @@
 # Surviving-Titanic-catastrophe
 
-PROBLEM STATEMENT
+![titanic-reuters-rtrb6qm](https://user-images.githubusercontent.com/82880075/140382879-72e54c46-b3d9-4b00-ac29-27395660ff9d.png)
+
+                                                    PROBLEM STATEMENT
 
 The sinking of the Titanic on April 15th, 1912 is one of the most tragic tragedies in history. The Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers. The numbers of survivors were low due to the lack of lifeboats for all passengers and crew. Some passengers were more likely to survive than others, such as women, children, and upper-class. This case study analyses what sorts of people were likely to survive this tragedy. The dataset includes the following:
 
@@ -27,6 +29,6 @@ The sinking of the Titanic on April 15th, 1912 is one of the most tragic tragedi
 DATA SOURCE: https://www.kaggle.com/c/titanic
 
 
-![titanic-reuters-rtrb6qm](https://user-images.githubusercontent.com/82880075/140382879-72e54c46-b3d9-4b00-ac29-27395660ff9d.png)
+
 
 
